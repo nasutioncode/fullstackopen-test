@@ -32,3 +32,7 @@ The browser executes the event handler, then displays a new note
 end note
 
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 194d0c3d65ef29b33e63e7015f7b01006e1f368a
