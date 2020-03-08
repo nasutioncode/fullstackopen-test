@@ -16,7 +16,7 @@ function CobaDua() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Mas, I love You, I miss you, 
+          Learn React Mas, I love You, I miss you, heheheheehe
         </a>
       </header>
     </div>
